@@ -49,7 +49,7 @@ The dashboard provides insights into ticket revenue, cargo revenue, operating co
 
 ## Main Dashboard
 
-[Performance Analysis](Docs\Performance_Analysis.png)
+[[Indigo Airlines Domestic Performance Analysis]](https://github.com/mohankumarmg07-web/Indigo-Airlines-Domestic-Performance-Analysis/blob/6ac42ba89f47acdd1fc6f9ed8f108b36ee1f6392/Indigo-Airlines-Domestic-Performance-Analysis/Docs/Performance_Analysis.png)
 
 ## Route Wise Deatails
 
