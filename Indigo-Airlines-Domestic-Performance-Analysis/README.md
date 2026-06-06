@@ -53,7 +53,7 @@ The dashboard provides insights into ticket revenue, cargo revenue, operating co
 
 ## Route Wise Deatails
 
-[[Drill Through Routes]](https://github.com/mohankumarmg07-web/Indigo-Airlines-Domestic-Performance-Analysis/blob/0df3d8c46a24a7c04d2ea308ff59414b5ebd8029/Indigo-Airlines-Domestic-Performance-Analysis/Docs/Drill_Through_Routes.png)
+[[Drill Through Routes]](https://github.com/mohankumarmg07-web/Indigo-Airlines-Domestic-Performance-Analysis/blob/6835371fc3bb429fe732e555a66b1d1c373f0f7f/Indigo-Airlines-Domestic-Performance-Analysis/Docs/Drill_Through_Routes.png)
 
 ## Tooltip
 
